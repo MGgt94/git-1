@@ -16,6 +16,11 @@ esc :wq 退出
 修改文件，查看状态，提示
 再次添加git add .
 提交并备注 git commit -m 'changed app.js' 
+touch .gitignore 增加忽略文件 在忽略文件中写需要忽略的内容
+比如：git.txt
+          /demo2
+git branch login 创建分支 
+git checkout login切换到分支 
 
 
 
