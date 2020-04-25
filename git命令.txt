@@ -1,0 +1,19 @@
+安装
+ git --version      看版本
+cd /g/git        cd+路径(直接拖文件夹)
+touch index.html    
+touch app.js 在文件夹下建
+git init  初始化
+git config --global user.name '木槿gt'  
+git config --global user.email '1840264662@qq.com'
+git add index.html 添加
+git add *.html       添加某一类文件
+git add .   上传所有文件
+git status 看状态 查看修改
+git rm --cached index.html 移除
+
+
+
+
+
+
